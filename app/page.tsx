@@ -21,8 +21,8 @@ export default function Home() {
       <div className="relative z-10">
         <Navbar />
         <Hero />
-        <About />
-        <Features />
+{/*         <About />
+        <Features /> */}
         {/* <Testimonials /> */}
         <ContactUs />
         <FAQ />
