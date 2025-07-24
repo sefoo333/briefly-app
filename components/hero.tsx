@@ -94,7 +94,7 @@ export default function Hero() {
       </div>
 
       {/* Enhanced Phone Mockup */}
-    <Image src={"/phone.png"} alt="" width={300} className="mt-0" height={200} />
+    <Image src={"/phone.png"} alt="" width={300} className="m-0" height={100} />
     </section>
   )
 }
